@@ -27,6 +27,8 @@ nav{
 	background: #ffffff;
 	height: 80px;
 	width: 100%;
+	overflow: hidden;
+	top: 0;
 }
 
 label.logo{
